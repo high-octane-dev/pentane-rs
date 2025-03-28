@@ -2,8 +2,10 @@
 name = "pentane"
 version = "0.0.0"
 edition = "2021"
-license = "MIT"
-description = "A library for working with the Pentane mod-loader"
+homepage = "https://high-octane-dev.github.io/"
 repository = "https://github.com/high-octane-dev/pentane-rs"
+description = "A library for working with the Pentane mod-loader"
+license = "MIT"
+readme = "readme.md"
 
 [dependencies]
