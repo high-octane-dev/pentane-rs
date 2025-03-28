@@ -1,0 +1,9 @@
+[package]
+name = "pentane"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+description = "A library for working with the Pentane mod-loader"
+repository = "https://github.com/high-octane-dev/pentane-rs"
+
+[dependencies]
